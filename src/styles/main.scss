@@ -1,6 +1,15 @@
 @import '../../node_modules/normalize-scss/sass/normalize/import-now';
 @import './base/variables';
 @import './base/typography';
-@import './components/buttons';
+@import './components/button';
+@import './components/icons';
+@import './components/ticket';
+@import './components/speaker';
 @import './layout/header';
 @import './layout/footer';
+@import './layout/sidebar';
+@import './pages/index';
+@import './pages/contacts';
+@import './pages/program';
+@import './pages/speakers';
+@import './pages/tickets';
